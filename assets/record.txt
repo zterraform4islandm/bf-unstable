@@ -6,3 +6,4 @@ Update AUC results
 Review contract clauses
 Update legal references
 Draft blog outline
+Summarize security audit
