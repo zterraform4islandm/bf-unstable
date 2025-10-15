@@ -6,3 +6,4 @@ List missing translations
 Record IDS findings
 List vendor options
 Record hackathon ideas
+Update dropout rate
