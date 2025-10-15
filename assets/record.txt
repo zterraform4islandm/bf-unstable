@@ -1,10 +1,1 @@
-Analyze user feedback
-Brainstorm feature ideas
-Track design iterations
-Summarize anonymization steps
-Record CI/CD pipeline
-Track configuration drift
-Record load test data
-Schedule publishing plan
-Record competitor moves
-Plan data migration
+Log board decisions
