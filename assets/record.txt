@@ -1,2 +1,3 @@
 Update logging sinks
 Note deprecated functions
+Draft loyalty program
