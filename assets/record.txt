@@ -2,3 +2,4 @@ Record retention schedule
 Update role matrix
 Record acceptance tests
 Plan resource allocation
+Refine backlog items
