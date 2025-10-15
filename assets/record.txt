@@ -3,3 +3,4 @@ Summarize launch steps
 List cluster configs
 Draft onboarding checklist
 Update AUC results
+Review contract clauses
