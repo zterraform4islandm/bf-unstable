@@ -4,3 +4,4 @@ List cluster configs
 Draft onboarding checklist
 Update AUC results
 Review contract clauses
+Update legal references
