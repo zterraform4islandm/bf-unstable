@@ -5,3 +5,4 @@ Schedule publishing plan
 Update incident timeline
 Draft canary rollout
 Record risk register
+Update SOC reports
