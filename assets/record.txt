@@ -12,3 +12,4 @@ Draft PR highlights
 Update swag inventory
 List discount schemes
 Update pricing table
+List open vulnerabilities
