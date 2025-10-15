@@ -1,1 +1,1 @@
-Log board decisions
+Note encryption methods
