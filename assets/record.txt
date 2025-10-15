@@ -1,3 +1,4 @@
 Record edge cases
 Summarize launch steps
 List cluster configs
+Draft onboarding checklist
