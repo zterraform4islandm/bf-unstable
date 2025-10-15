@@ -3,3 +3,4 @@ Summarize PCI items
 Update redundancy notes
 Update retention plan
 Record certification status
+Update hash list
