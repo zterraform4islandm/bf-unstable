@@ -4,3 +4,4 @@ Update redundancy notes
 Update retention plan
 Record certification status
 Update hash list
+Audit database schema
