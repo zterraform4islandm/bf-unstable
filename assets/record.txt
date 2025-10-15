@@ -10,3 +10,4 @@ Note interest changes
 Summarize outage causes
 Draft PR highlights
 Update swag inventory
+List discount schemes
