@@ -1,3 +1,4 @@
 Record IDS findings
 Capture article topics
 Draft root cause notes
+Note GDPR tasks
