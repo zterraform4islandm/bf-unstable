@@ -1,7 +1,1 @@
-Record retention schedule
-Update role matrix
-Record acceptance tests
-Plan resource allocation
-Refine backlog items
-Draft resilience test
-Note customer churn
+Update logging sinks
