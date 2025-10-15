@@ -1,1 +1,2 @@
 Update logging sinks
+Note deprecated functions
