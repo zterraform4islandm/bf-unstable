@@ -9,3 +9,4 @@ List governance items
 Note interest changes
 Summarize outage causes
 Draft PR highlights
+Update swag inventory
