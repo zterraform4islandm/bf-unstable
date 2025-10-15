@@ -1,10 +1,1 @@
-Note encryption methods
-Summarize ROC data
-Update load balancer notes
-Update skill matrix
-List missing translations
-Record IDS findings
-List vendor options
-Record hackathon ideas
-Update dropout rate
-Note escalation matrix
+Update cross-team docs
