@@ -1,2 +1,3 @@
 Summarize market trends
 Summarize zone updates
+Note blocker list
