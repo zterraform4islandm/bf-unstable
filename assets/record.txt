@@ -2,3 +2,4 @@ Evaluate third-party libs
 Summarize PCI items
 Update redundancy notes
 Update retention plan
+Record certification status
