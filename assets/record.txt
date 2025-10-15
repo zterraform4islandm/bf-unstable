@@ -7,3 +7,4 @@ Review contract clauses
 Update legal references
 Draft blog outline
 Summarize security audit
+Note design refresh
