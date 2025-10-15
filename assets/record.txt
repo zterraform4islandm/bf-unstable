@@ -6,3 +6,4 @@ Record expense items
 Review MFA adoption
 Summarize top requests
 List governance items
+Note interest changes
