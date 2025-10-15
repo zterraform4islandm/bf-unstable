@@ -6,3 +6,4 @@ Update incident timeline
 Draft canary rollout
 Record risk register
 Update SOC reports
+Record compliance status
