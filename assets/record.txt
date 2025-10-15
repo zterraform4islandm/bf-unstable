@@ -1,3 +1,4 @@
 Analyze user feedback
 Brainstorm feature ideas
 Track design iterations
+Summarize anonymization steps
