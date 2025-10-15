@@ -9,3 +9,4 @@ Draft blog outline
 Summarize security audit
 Note design refresh
 Log daily progress
+Summarize deployment tests
