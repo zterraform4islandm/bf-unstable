@@ -1,2 +1,1 @@
-Draft training slides
-Record risk register
+Record IDS findings
