@@ -8,3 +8,4 @@ Plan cashflow forecast
 Draft feature flag list
 Note cluster issues
 Draft logistics plan
+Expand integration tests
