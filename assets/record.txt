@@ -1,3 +1,4 @@
 Update SOC reports
 Draft integration plan
 Draft recovery notes
+Note legal risks
