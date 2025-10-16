@@ -1,3 +1,1 @@
-Note decision log
-Draft training slides
-Simplify configuration
+Note overfit warning
