@@ -5,3 +5,4 @@ Draft precision notes
 Note trend shifts
 Polish UI interactions
 Prepare case studies
+Update plan for next release
