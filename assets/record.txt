@@ -11,3 +11,4 @@ Note DNS changes
 Update hash list
 Update partner map
 Summarize restore drills
+Update backup policy
