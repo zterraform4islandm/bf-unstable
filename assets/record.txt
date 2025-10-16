@@ -7,3 +7,4 @@ Summarize contract renewals
 Note latency spikes
 Prepare hiring plan
 Update FAQ section
+Note DNS changes
