@@ -13,3 +13,4 @@ Update partner map
 Summarize restore drills
 Update backup policy
 Summarize security audit
+Review financial risks
