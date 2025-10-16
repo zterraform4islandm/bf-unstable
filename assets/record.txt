@@ -15,3 +15,4 @@ Update backup policy
 Summarize security audit
 Review financial risks
 Capture SWOT notes
+List password policies
