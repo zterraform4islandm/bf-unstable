@@ -1,2 +1,3 @@
 Update cross-team docs
 Record gradual rollout
+Note registry updates
