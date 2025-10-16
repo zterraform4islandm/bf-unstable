@@ -4,3 +4,4 @@ Record competitor scans
 Add fallback options
 Summarize restore drills
 Summarize workshop notes
+List banking contacts
