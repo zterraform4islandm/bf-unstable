@@ -9,3 +9,4 @@ Prepare hiring plan
 Update FAQ section
 Note DNS changes
 Update hash list
+Update partner map
