@@ -17,3 +17,4 @@ Review financial risks
 Capture SWOT notes
 List password policies
 Summarize uptime data
+Update redundancy notes
