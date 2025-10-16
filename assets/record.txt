@@ -16,3 +16,4 @@ Summarize security audit
 Review financial risks
 Capture SWOT notes
 List password policies
+Summarize uptime data
