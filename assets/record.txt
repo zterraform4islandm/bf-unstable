@@ -4,3 +4,4 @@ Draft recovery notes
 Note legal risks
 Draft resilience test
 Review logo sketches
+Update swag inventory
