@@ -1,2 +1,1 @@
-Record procurement steps
-Track library updates
+List missing translations
