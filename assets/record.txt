@@ -1,9 +1,1 @@
-Update SOC reports
-Draft integration plan
-Draft recovery notes
-Note legal risks
-Draft resilience test
-Review logo sketches
-Update swag inventory
-Note DNS changes
-Draft UX improvements
+Record procurement steps
