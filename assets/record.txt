@@ -7,3 +7,4 @@ Record certification status
 Plan cashflow forecast
 Draft feature flag list
 Note cluster issues
+Draft logistics plan
