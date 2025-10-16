@@ -6,3 +6,4 @@ Note DPA clauses
 Summarize contract renewals
 Note latency spikes
 Prepare hiring plan
+Update FAQ section
