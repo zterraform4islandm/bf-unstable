@@ -1,2 +1,3 @@
 Draft testimonials list
 Record progress KPIs
+Summarize adoption metrics
