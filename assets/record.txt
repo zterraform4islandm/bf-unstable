@@ -3,3 +3,4 @@ Research best practices
 Record competitor scans
 Add fallback options
 Summarize restore drills
+Summarize workshop notes
