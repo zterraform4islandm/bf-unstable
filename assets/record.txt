@@ -4,3 +4,4 @@ Review revenue data
 Record competitor scans
 Add alternative approaches
 Update board minutes
+Summarize QA audits
