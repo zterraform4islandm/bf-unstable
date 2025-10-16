@@ -1,2 +1,3 @@
 Note decision log
 Draft training slides
+Simplify configuration
