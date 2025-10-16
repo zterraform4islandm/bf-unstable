@@ -1,3 +1,1 @@
-Update logging sinks
-Record blue-green notes
-Log board decisions
+Note jurisdiction issues
